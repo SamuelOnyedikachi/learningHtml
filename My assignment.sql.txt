@@ -1,1 +1,0 @@
-INSERT into myTable ASDfasd asdasfas dfas  sdafasss
