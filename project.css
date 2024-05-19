@@ -1,0 +1,42 @@
+body {
+    background: #fdfeff;
+    color: rgb(0,0, 0);
+    Font-family :Georgia, Arial;
+    Font-weight :600 ;
+    Font-size :24px ;
+}
+
+/** logo**/
+.image_logo{
+float: left;
+padding: 20px 15px 15px 20px;
+
+}
+ /** Header **/
+header{
+  background:#4b6680;
+  color:#ffffff;
+  padding:0  0  0  0;
+  min-height:70px;
+  border-bottom:rgb(0,0, 128) 4px solid;
+  text-align:center;
+  Border-top:0;
+}
+
+Header nav{
+    Float:right;
+    Margin-top:0;
+}
+
+header li{
+  float:left;
+  display:inline;
+  padding: 0 10px 0 10px;
+  Text-decoration:none;
+  Margin-top:10px ; 
+  Margin-bottom :10px;
+  }
+  header a{
+ color: brown;
+
+ }
